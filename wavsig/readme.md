@@ -7,4 +7,6 @@ WavSig is based on MCP4921 Digital to Analog converter from Microchip
 
 # Usage
 
-# Example code
+# Waveform Generator with Arduino DUE
+
+https://www.arduino.cc/en/Tutorial/DueSimpleWaveformGenerator
